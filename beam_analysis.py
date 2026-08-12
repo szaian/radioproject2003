@@ -349,7 +349,7 @@ plt.errorbar(
 plt.plot(
     x_smooth,
     y_smooth,
-    color='pink',
+    color='deeppink',
     linewidth=2,
     label='Gaussian fit'
 )
